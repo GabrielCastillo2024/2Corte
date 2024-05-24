@@ -27,7 +27,4 @@ void acumularValores() {
     cout << "El valor acumulado es: " << total << endl;
 }
 
-int main() {
-    acumularValores();
-    return 0;
-}
+
