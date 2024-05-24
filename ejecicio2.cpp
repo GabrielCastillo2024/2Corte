@@ -30,10 +30,5 @@ void negativoPositivo() {
     }
     cout << endl;
 
-    
-}
-
-int main() {
-    negativoPositivo();
-    return 0;
+ 
 }
